@@ -1,18 +1,7 @@
 <?xml version="1.0"?>
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024" width="32" height="32">
-  <title>NADRIX icon</title>
-  <defs>
-    <linearGradient id="nadrixGradient" x1="0" y1="0" x2="1770" y2="1612" gradientUnits="userSpaceOnUse">
-      <stop offset="0%" stop-color="#2DD4BF"></stop>
-      <stop offset="35%" stop-color="#6366F1"></stop>
-      <stop offset="70%" stop-color="#A855F7"></stop>
-      <stop offset="100%" stop-color="#D946EF"></stop>
-    </linearGradient>
-  </defs>
-  <rect x="0" y="0" width="1024" height="1024" fill="#0A0A0A"></rect>
-  <g id="NADRIX-mark" transform="translate(199,206) scale(0.354)">
-    <path fill="url(#nadrixGradient)" d="M 1.0 1.0 L 583.0 1.0 L 626.0 9.0 L 656.0 20.0 L 687.0 37.0 L 715.0 59.0 L 760.0 115.0 L 1769.0 1610.0 L 1185.0 1610.0 L 1154.0 1605.0 L 1120.0 1594.0 L 1087.0 1577.0 L 1061.0 1558.0 L 1036.0 1533.0 L 1012.0 1500.0 Z"></path>
-    <path fill="url(#nadrixGradient)" d="M 1145.0 1.0 L 1651.0 1.0 L 1685.0 12.0 L 1715.0 38.0 L 1727.0 59.0 L 1734.0 88.0 L 1734.0 861.0 Z"></path>
-    <path fill="url(#nadrixGradient)" d="M 36.0 750.0 L 624.0 1610.0 L 118.0 1610.0 L 86.0 1600.0 L 64.0 1584.0 L 53.0 1571.0 L 42.0 1551.0 L 36.0 1528.0 Z"></path>
-  </g>
+  <title>NADX token</title>
+  <defs><linearGradient id="g" x1="0" y1="0" x2="1770" y2="1612" gradientUnits="userSpaceOnUse"><stop offset="0%" stop-color="#2DD4BF"/><stop offset="35%" stop-color="#6366F1"/><stop offset="70%" stop-color="#A855F7"/><stop offset="100%" stop-color="#D946EF"/></linearGradient></defs>
+  <circle cx="512.0" cy="512.0" r="512.0" fill="#0A0A0A"/>
+  <g transform="translate(256.00,278.85) scale(0.28927)"><path fill="url(#g)" d="M 1 1 L 583 1 L 626 9 L 656 20 L 687 37 L 715 59 L 760 115 L 1769 1610 L 1185 1610 L 1154 1605 L 1120 1594 L 1087 1577 L 1061 1558 L 1036 1533 L 1012 1500 Z"/><path fill="url(#g)" d="M 1145 1 L 1651 1 L 1685 12 L 1715 38 L 1727 59 L 1734 88 L 1734 861 Z"/><path fill="url(#g)" d="M 36 750 L 624 1610 L 118 1610 L 86 1600 L 64 1584 L 53 1571 L 42 1551 L 36 1528 Z"/></g>
 </svg>
